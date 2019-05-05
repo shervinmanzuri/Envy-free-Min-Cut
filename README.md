@@ -15,16 +15,8 @@ Follow the instructions below for running the algorithm.
 
 ### Running
 
-To run the algorithm to get a minimum cut for 
-
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+TODO 
 ```
 
 ## License
