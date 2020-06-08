@@ -3,7 +3,7 @@ An algorithm for finding envy-free and truthful mechanisms with a small number o
 
 ## Based On
 
-* [EFISM: Special Interval Scheduling](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14608/13780) - Allgorithm Steps
+* [EFISM: Special Interval Scheduling](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14608/13780) - Algorithm Steps
 
 ## Getting Started
 
